@@ -1,5 +1,5 @@
 
-import Layout from './components/hoc/Layout/Lyaout';
+import Layout from './hoc/Layout/Lyaout';
 import './App.css';
 
 function App() {
