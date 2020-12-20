@@ -1,11 +1,10 @@
 
+import Layout from './components/hoc/Layout/Lyaout';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+<Layout />
   );
 }
 
